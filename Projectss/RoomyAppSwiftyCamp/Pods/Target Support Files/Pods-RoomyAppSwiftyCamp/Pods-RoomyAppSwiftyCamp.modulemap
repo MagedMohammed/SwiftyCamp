@@ -1,0 +1,6 @@
+framework module Pods_RoomyAppSwiftyCamp {
+  umbrella header "Pods-RoomyAppSwiftyCamp-umbrella.h"
+
+  export *
+  module * { export * }
+}
